@@ -48,7 +48,7 @@ export var products: IProduct[] = [
     releaseDate: 'October 15, 2020',
     description: 'Standard two-button video game controller',
     price: 35.95,
-    starRating: 4.6,
+    starRating: 2,
     imageUrl: 'assets/images/xbox-controller.png',
   },
 ];
